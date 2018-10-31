@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2 2 Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="increase">Increase</string>
+    <string name="decrease">Decrease</string>
+    <string name="item">Item</string>
+    <string name="visit_taruc">VISIT TARUC</string>
+    <string name="show_main">SHOW MAIN</string>
+    <string name="dial_012_345_6789">DIAL 012-345 6789</string>
+    <string name="email_taruc">EMAIL TARUC</string>
+    <string name="about_us">About Us</string>
+</resources>
